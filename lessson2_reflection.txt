@@ -1,2 +1,5 @@
-What happens when you initialize a new repository? Why do you need to do it?
+What happens when you initialize a new repository? 
+git starts to track the files
+Why do you need to do it?
+
 
