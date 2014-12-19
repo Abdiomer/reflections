@@ -1,0 +1,2 @@
+What happens when you initialize a new repository? Why do you need to do it?
+
